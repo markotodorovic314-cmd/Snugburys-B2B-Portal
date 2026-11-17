@@ -15,7 +15,7 @@ window.PORTAL_CONFIG = {
   "heroImage1": "assets/p2790.webp",
   "heroImage2": "assets/p2845.webp",
   "heroCaption": "A scoop above the ordinary",
-  "buyer": "The Harbour Café",
+  "buyer": "Willowbrook Farm Shop",
   "accountType": "Hospitality partner",
   "categories": [
     "All products",
